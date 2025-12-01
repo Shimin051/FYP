@@ -1,4 +1,3 @@
-// configs/AiModels.js
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
 const API_KEY = process.env.GOOGLE_GENERATIVE_AI_API_KEY;

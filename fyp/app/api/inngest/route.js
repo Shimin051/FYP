@@ -1,4 +1,3 @@
-// app/api/inngest/route.js
 export const runtime = "nodejs";
 
 import { serve } from "inngest/next";

@@ -1,4 +1,3 @@
-// app/actions/user.js
 "use server";
 
 import { db } from "@/configs/db";

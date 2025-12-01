@@ -1,4 +1,3 @@
-// app/api/user-create/route.js
 import { NextResponse } from "next/server";
 import { inngest } from "@/inngest/client.js";
 

@@ -1,4 +1,3 @@
-// /inngest/functions.js
 import { inngest } from "./client";
 import { db } from "@/configs/db";
 import { users, creditLedger, studyRequests, studyMaterials } from "@/configs/schema";
